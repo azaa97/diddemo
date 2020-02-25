@@ -1,0 +1,107 @@
+.body{
+	background-color:black;
+}
+.boxone {
+	height:100px;
+	background-color: white;
+	width:100%;
+	margin-bottom:10px;
+	clear:both;
+}
+
+.boxtwo {
+	height:400px;
+	background-color: white;
+	width:100%;
+	margin-bottom:10px;
+	clear:both;
+	
+}
+.boxthree img{
+	padding-right:20px;
+}
+.boxthree{
+	height:500px;
+	background-color: black;
+	float:left;
+	margin-bottom:20px;
+	width:66%;
+}
+.boxthree h1{
+	font-family:'Mukta';
+	font-size:3em;
+	text-transform:uppercase;
+	color:white;
+}
+.boxthree h2{
+	font-family:'Mukta';
+	font-size:1em;
+	color:white;
+}
+.boxfour{
+	height:500px;
+	background-color: black;
+	float:right;
+	margin-bottom:10px;
+	width:33%;
+}
+.boxfour img{
+	padding:70px;
+	font-family:'Mukta';
+}
+.boxfour h2 {
+	color:white;
+	padding-left:40px;
+	padding-bottom:50px;
+}
+
+.boxfive {
+	height:500px;
+	background-color: white;
+	width:100%;
+	margin-bottom:170px;
+	margin-top:20px;
+	clear:both;
+}
+.boxfive h3{
+	font-family:'Mukta';
+	font-size:1em;
+	text-transform:uppercase;
+	color:black;
+}
+	
+
+.boxsix {
+	height:440px;
+	background-color: white;
+	width:435px;
+	float:left;
+
+}
+.boxseven {
+	height:440px;
+	background-color: white;
+	width:435px;
+	float:right;
+}
+.boxeight {
+	height:440px;
+	width:435px;
+	background-color:white;
+	
+}
+.boxnine {
+	height:100px;
+	background-color: black;
+	width:100%;
+	margin-bottom:10px;
+	clear:both;
+}
+.boxnine h1{
+
+	font-family:'Mukta';
+	font-size:1em;
+	text-transform:uppercase;
+	color:white;
+}
+
